@@ -1,12 +1,12 @@
 package com.interufmt;
 
 public class Atletica {
-    private String nome;
+    private String name;
     private String curso;
     private int pontos;
 
     public Atletica(String nome, String curso) {
-        this.nome = nome;
+        this.name = nome;
         this.curso = curso;
         this.pontos = 0; 
     }
